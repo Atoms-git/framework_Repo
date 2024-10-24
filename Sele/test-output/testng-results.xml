@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-21T13:13:54 IST" name="Default suite" finished-at="2024-10-21T13:14:08 IST" duration-ms="13141">
+    <groups>
+      <group name="smokeTest">
+        <method signature="TigerCRMOrgCreate.orgcreate()[pri:0, instance:testcasedeepak2.TigerCRMOrgCreate@1a4927d6]" name="orgcreate" class="testcasedeepak2.TigerCRMOrgCreate"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2024-10-21T13:13:54 IST" name="Default test" finished-at="2024-10-21T13:14:08 IST" duration-ms="13141">
+      <class name="testcasedeepak2.TigerCRMOrgCreate">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:testcasedeepak2.TigerCRMOrgCreate@1a4927d6]" started-at="2024-10-21T13:13:54 IST" name="configBS" finished-at="2024-10-21T13:13:54 IST" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:testcasedeepak2.TigerCRMOrgCreate@1a4927d6]" started-at="2024-10-21T13:13:55 IST" name="configBC" finished-at="2024-10-21T13:13:58 IST" duration-ms="3485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:testcasedeepak2.TigerCRMOrgCreate@1a4927d6]" started-at="2024-10-21T13:13:58 IST" name="configBM" finished-at="2024-10-21T13:14:01 IST" duration-ms="2657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="orgcreate()[pri:0, instance:testcasedeepak2.TigerCRMOrgCreate@1a4927d6]" started-at="2024-10-21T13:14:01 IST" name="orgcreate" finished-at="2024-10-21T13:14:07 IST" duration-ms="5907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orgcreate -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:testcasedeepak2.TigerCRMOrgCreate@1a4927d6]" started-at="2024-10-21T13:14:07 IST" name="configAM" finished-at="2024-10-21T13:14:07 IST" duration-ms="710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:testcasedeepak2.TigerCRMOrgCreate@1a4927d6]" started-at="2024-10-21T13:14:07 IST" name="configAC" finished-at="2024-10-21T13:14:08 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:testcasedeepak2.TigerCRMOrgCreate@1a4927d6]" started-at="2024-10-21T13:14:08 IST" name="configAS" finished-at="2024-10-21T13:14:08 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- testcasedeepak2.TigerCRMOrgCreate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
